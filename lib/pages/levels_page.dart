@@ -11,7 +11,7 @@ class LevelsPage extends StatelessWidget {
 
     // Solo il primo livello sbloccato
     final int unlockedLevel = 1;
-    final Map<int, int> stars = {1: 0, 2: 0, 3: 0}; // Stelle statiche
+    //final Map<int, int> stars = {1: 0, 2: 0, 3: 0}; // Stelle statiche
     final Map<int, String> levelNames = {
       1: "Base",
       2: "Intermedio",
